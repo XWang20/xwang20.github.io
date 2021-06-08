@@ -2,10 +2,8 @@
 layout: article
 ---
 
-## 🎉交换友链
-欢迎小伙伴们来交换友链呀！
+🎉 欢迎小伙伴们来交换友链呀！
 
-## 👩‍💻友情链接
 <div class="friend-box">
 <img class="friend-avatar" src="https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/jotang-logo.png">
 <div class="flink-info">

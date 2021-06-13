@@ -2,6 +2,7 @@
 title: 'NOTES | A Brief Survey of Computational Approaches in Social Computing'
 date: 2020-11-23 20:57:35
 tags: [社会计算,论文阅读,学术研究]
+categories: [Research, Social Computing]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/social%20computing.png)
 

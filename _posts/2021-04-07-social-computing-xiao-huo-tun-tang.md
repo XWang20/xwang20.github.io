@@ -2,6 +2,7 @@
 title: 'Social Computing 小火炖汤'
 date: 2021-04-07 15:45:27
 tags: [小小分享,社会计算,学术研究,生活琐碎]
+categories: [Research, Social Computing]
 ---
 尚未完工，尽情期待。
 

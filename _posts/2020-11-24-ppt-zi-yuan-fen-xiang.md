@@ -2,6 +2,7 @@
 title: 'PPT资源分享'
 date: 2020-11-24 20:04:49
 tags: [小小分享,隐藏技能]
+categories: [Others]
 ---
 <!--more-->
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/ppt.png)

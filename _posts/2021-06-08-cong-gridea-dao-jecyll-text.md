@@ -2,6 +2,7 @@
 title: 'Gridea到Jekyll-TeXt，博客迁移和自我探索之旅'
 key: cong-gridea-dao-jecyll-text
 tags: [生活琐碎]
+categories: [Everyday Life]
 ---
 > 博客，三分写作，七分折腾。其实都是为了正当摸鱼。
 

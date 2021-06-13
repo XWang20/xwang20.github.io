@@ -2,6 +2,7 @@
 title: '记录一场面试 | MSRA SIG'
 date: 2020-11-20 23:21:43
 tags: [自我回顾,生活琐碎]
+categories: [Everyday Life, Murmur]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/1.png)
 

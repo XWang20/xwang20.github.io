@@ -2,6 +2,7 @@
 title: 'NOTES | SOCIAL BIAS FRAMES'
 date: 2021-04-06 18:49:45
 tags: [社会偏见,论文阅读,学术研究,社会计算]
+categories: [Research, Social Computing]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/social%20bias%20frame.jpg)
 

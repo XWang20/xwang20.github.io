@@ -2,6 +2,7 @@
 title: 'NOTES | 亲爱的安吉维拉'
 date: 2021-04-09 13:35:42
 tags: [读书笔记,小小分享]
+categories: [Everyday Life, Reading Notes]
 ---
 阿迪契作品系列：亲爱的安吉维拉
 奇玛曼达·恩戈兹·阿迪契

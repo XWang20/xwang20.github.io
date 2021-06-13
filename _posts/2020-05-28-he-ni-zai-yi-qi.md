@@ -2,6 +2,7 @@
 title: '和你在一起'
 date: 2020-05-28 22:56:35
 tags: [生活琐碎]
+categories: [Everyday Life, Murmur]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/lz.jpg)
 

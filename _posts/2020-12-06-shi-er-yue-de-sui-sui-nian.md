@@ -2,6 +2,7 @@
 title: '十二月初的碎碎念'
 date: 2020-12-06 14:15:07
 tags: [生活琐碎]
+categories: [Everyday Life, Murmur]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/2020-12-06-061437.png)
 

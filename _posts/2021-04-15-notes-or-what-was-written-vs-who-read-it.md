@@ -2,6 +2,7 @@
 title: 'NOTES | What Was Written vs. Who Read It'
 date: 2021-04-15 22:58:34
 tags: [社会计算,论文阅读,学术研究]
+categories: [Research, Social Computing]
 ---
 ![banner](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/What%20Was%20Written%20vs.%20Who%20Read%20It.jpg)
 

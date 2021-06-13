@@ -11,6 +11,16 @@ header:
 
   - titles:
       # @start locale config
+      en      : &EN       Category
+      zh-Hans : &ZH_HANS  分类
+      # zh-Hant : &ZH_HANT  
+      # ko      : &KO       소개
+      # fr      : &FR       À propos
+      # @end locale config
+    url: /categories.html
+
+  - titles:
+      # @start locale config
       en      : &EN       Albums
       zh-Hans : &ZH_HANS  图片集
       # zh-Hant : &ZH_HANT  

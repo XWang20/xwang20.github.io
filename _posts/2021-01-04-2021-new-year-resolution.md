@@ -3,6 +3,7 @@ title: '2021 New Year Resolution'
 key: "2021-new-year-resolution"
 mathjax: false
 tags: [年度总结,自我回顾,生活琐碎]
+categories: [Everyday Life, Annual Summarization]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/2021NewYearResolution.jpg)
 

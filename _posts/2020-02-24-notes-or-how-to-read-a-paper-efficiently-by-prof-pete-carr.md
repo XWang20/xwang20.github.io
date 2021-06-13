@@ -2,6 +2,7 @@
 title: 'NOTES | How to Read a Paper Efficiently (By Prof. Pete Carr)'
 date: 2020-02-24 14:12:23
 tags: [论文阅读,学术研究]
+categories: [Research, Methodology]
 ---
 
 <div>{%- include extensions/youtube.html id='IeaD0ZaUJ3Y' -%}</div>

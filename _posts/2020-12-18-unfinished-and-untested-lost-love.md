@@ -2,6 +2,7 @@
 title: 'Unfinished & Untested, Lost Love'
 date: 2020-12-18 20:53:14
 tags: [情感电台,生活琐碎]
+categories: [Everyday Life, Murmur]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/20201218212607.png)
 

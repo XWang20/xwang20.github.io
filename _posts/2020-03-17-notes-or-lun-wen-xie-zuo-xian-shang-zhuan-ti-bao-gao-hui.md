@@ -2,6 +2,7 @@
 title: 'NOTES | 论文写作线上专题报告会'
 date: 2020-03-17 13:20:24
 tags: [论文写作,学术研究]
+categories: [Research, Methodology]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/notes-or-lun-wen-xie-zuo-xian-shang-zhuan-ti-bao-gao-hui.png)
 

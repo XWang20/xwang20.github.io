@@ -2,6 +2,7 @@
 title: '2020, 书影音记录'
 date: 2021-01-06 14:25:06
 tags: [年度总结,自我回顾,生活琐碎,小小分享]
+categories: [Everyday Life, Annual Summarization]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/2020records.jpg)
 

@@ -2,6 +2,7 @@
 title: 'NOTES | 信息素养——学术研究的必修课'
 date: 2020-12-01 22:28:10
 tags: [学术研究]
+categories: [Research, Methodology]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB.png)
 

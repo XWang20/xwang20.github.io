@@ -2,6 +2,7 @@
 title: 'PROJECT | 微博数据采集项目'
 date: 2021-04-06 17:17:07
 tags: [项目文档,社会计算]
+categories: [Others]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E5%8D%9A%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.jpg)
 

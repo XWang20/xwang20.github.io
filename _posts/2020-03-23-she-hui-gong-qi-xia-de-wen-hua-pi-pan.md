@@ -2,6 +2,7 @@
 title: '社会公器下的文化批判'
 date: 2020-03-23 00:58:47
 tags: [生活琐碎]
+categories: [Everyday Life]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/20201214142507.png)
 

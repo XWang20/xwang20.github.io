@@ -2,6 +2,7 @@
 title: '我学钢琴的那些年里'
 date: 2020-03-01 00:12:26
 tags: [生活琐碎]
+categories: [Everyday Life, Murmur]
 ---
 ![](https://xtopia-1258297046.cos.ap-shanghai.myqcloud.com/wo-xue-gang-qin-de-na-xie-nian-li.png)
 **你相信人有天赋吗？**

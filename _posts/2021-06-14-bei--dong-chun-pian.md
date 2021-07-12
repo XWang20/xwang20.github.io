@@ -25,5 +25,7 @@ categories: [Everyday Life, Murmur]
 
 坐在实验室的“风景区”。每次望向窗外，我都会想起莫奈的《干草堆》[^2]，季节更替，天气变化，览物之情，得无异乎。困的时候，把音乐声音稍微开小一些，靠着椅子，很容易就能进入睡眠。透过显示器或玻璃的反光，我很容易的能够看到实验室外面的走动，忙忙碌碌的人啊，你们又在向往着什么呢？
 
+<div>{%- include extensions/bilibili.html id='BV1EK4y1u7ws' -%}</div>
+
 [^1]: [川端康成, 雪国, 南海出版公司: 2013-9-15](https://book.douban.com/subject/24736899/)
 [^2]: [Claude Monet, Les Meules: 1890](https://zh.wikipedia.org/wiki/%E4%B9%BE%E8%8D%89%E5%A0%86_(%E8%8E%AB%E5%A5%88))
